@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(212, 45%, 89%);
+    flex-direction: column;
+    font-family: original, sans-serif;
+}
+
+.qr {
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    border-radius: 20px;
+    width: 300px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.qr .qrcode {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.qr .mensagem .mensagem1 {
+    font-size: 140%;
+    text-align: center;
+    margin-left: -30px;
+}
+
+.qr .mensagem .mensagem2 {
+    color: hsl(216, 15%, 48%);
+    font-size: 110%;
+    text-align: center;
+    margin-left: -30px;
+}
+
+.creditos {
+    position: absolute;
+text-align: center;
+bottom: 10px;
+margin: auto auto auto -10px;
+    color: hsl(216, 15%, 48%);
+}
