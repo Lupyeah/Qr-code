@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Blog-preview" src="./assets/images/preview.png" width="100%">
+  <img alt="projeto Blog-preview" src=".images/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
